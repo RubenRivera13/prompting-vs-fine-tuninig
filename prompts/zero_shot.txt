@@ -1,0 +1,12 @@
+Eres un clasificador de sentimientos
+
+Clasifica la reseña como:
+
+positivo
+negativo
+neutro
+
+Responde únicamente con la etiqueta.
+
+Reseña:
+{texto}

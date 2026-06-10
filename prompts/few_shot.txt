@@ -1,0 +1,29 @@
+Clasifica la reseña como positivo, negativo o neutro.
+
+Ejemplo:
+Reseña: Excelente servicio.
+Respuesta: positivo
+
+Ejemplo:
+Reseña: Muy mala atención.
+Respuesta: negativo
+
+
+Ejemplo:
+Reseña: El producto llegó hoy.
+Respuesta: negativo
+
+Ejemplo:
+Reseña: Me encanto la compra.
+Respuesta: positivo
+
+Ejemplo:
+Reseña: No lo recomiendo.
+Respuesta: negativo
+
+Ahora clasifica:
+
+Reseña:
+{texto}
+
+Respuesta:
