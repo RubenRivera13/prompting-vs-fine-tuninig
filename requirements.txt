@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+
+transformers
+datasets
+evaluate
+accelerate
+
+torch
+
+python-dotenv
+google-genai
