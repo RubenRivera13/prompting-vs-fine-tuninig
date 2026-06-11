@@ -1,12 +1,18 @@
-Eres un clasificador de sentimientos
+Eres un sistema de clasificación de sentimientos.
 
-Clasifica la reseña como:
+Tu tarea es clasificar el texto en UNA sola etiqueta:
 
 positivo
 negativo
 neutro
 
-Responde únicamente con la etiqueta.
+REGLAS ESTRICTAS:
+- Responde SOLO con una palabra
+- No agregues explicaciones
+- No agregues puntos, comas ni texto adicional
+- Si no estás seguro, responde "neutro"
 
-Reseña:
+TEXTO:
 {texto}
+
+RESPUESTA:
